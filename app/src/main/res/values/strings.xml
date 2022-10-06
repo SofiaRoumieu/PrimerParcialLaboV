@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Users</string>
+    <string name="menu_edicion">Edit user</string>
+    <string name="menu_nuevo">Add user</string>
+    <string name="ing_nombre">User</string>
+    <string name="hint_nombre">user</string>
+    <string name="ing_contrasenña">Password</string>
+    <string name="hint_contraseña">******</string>
+    <string name="ing_repitaContraseña">Repeat password</string>
+    <string name="tipoUsuario">Type</string>
+    <string name="administrador">Admin</string>
+    <string name="usuario">User</string>
+    <string name="guardar">Save</string>
+</resources>
